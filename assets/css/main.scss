@@ -65,7 +65,7 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
-        font-size: small;
+        font-size: .8em;
         line-height: 1;
     }
     
@@ -82,6 +82,8 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
+            font-size: .8em;
+            line-height: 1;
         }
 
     }
