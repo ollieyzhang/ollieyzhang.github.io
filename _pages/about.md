@@ -24,7 +24,7 @@ Feel free to contact me for any collaboration.
 # Selected Publications
 ---
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
-<table style="width:100%;border:0px;border-spacing:0px;border:none;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:none;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
 
   <tr>
     <td style="width:25%;vertical-align:middle">
