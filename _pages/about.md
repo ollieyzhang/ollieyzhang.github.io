@@ -24,56 +24,23 @@ Feel free to contact me for any collaboration.
 # Selected Publications
 ---
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
-<table style="width:100%;border:none;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
 
-  <tr>
-    <td style="width:25%;vertical-align:middle">
-      <div class="one">
-        <img src='images/RDF.png' width="100%">
-      </div>
-    </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-      <a href="https://arxiv.org/pdf/2307.00533">
-        <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
-      </a>
-      <br>
-      Yiming Li, <strong>Yan Zhang</strong>, Amirreza Razmjoo, Sylvain Calinon
-      <br>
-      <strong>ICRA 2024</strong>
-      <em><br>
-        <a href="https://arxiv.org/pdf/2307.00533">paper</a> /
-        <a href="https://github.com/yimingli1998/RDF">code</a> /
-        <a href="https://sites.google.com/view/lrdf">website</a>
-        <br>
-        <!-- (<strong style="color:red;">Spotlight</strong>, acceptance rate: 5%) -->
-      </em><br>
-      </td>
-  </tr>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/RDF.png' alt="sym" width="80%">
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
 
-  <tr>
-    <td style="width:25%;vertical-align:middle">
-      <div class="one">
-        <img src='images/RDF.png' width="100%">
-      </div>
-    </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-      <a href="https://github.com/yimingli1998/RDF">
-        <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
-      </a>
-      <br>
-      Yiming Li, <strong>Yan Zhang</strong>, Amirreza Razmjoo, Sylvain Calinon
-      <br>
-      <strong>ICRA 2024</strong>
-      <em><br>
-        <a href="https://arxiv.org/pdf/2307.00533">paper</a> /
-        <a href="https://github.com/yimingli1998/RDF">code</a> /
-        <a href="https://sites.google.com/view/lrdf">website</a>
-        <br>
-        <!-- (<strong style="color:red;">Spotlight</strong>, acceptance rate: 5%) -->
-      </em><br>
-      </td>
-  </tr>
-  
-  </tbody></table>
+**Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
+
+Yiming Li, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
+
+In Proc. IEEE ICRA 2024.
+
+[[paper]](https://arxiv.org/pdf/2307.00533)[[website]](https://sites.google.com/view/lrdf)
+</div>
+</div>
 
   
