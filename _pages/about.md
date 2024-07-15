@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd-year PhD student at EPFL and also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en). I am supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
+I am a 2nd-year PhD student at EPFL and also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en), supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
 
 ![Research goals](/images/kitchen_robot.png){: .align-right width="180px"}
 
@@ -15,7 +15,7 @@ I am targeting on building intelligent robot assistants living together with hum
 
 Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/projects/) for more information. 
 
-I am also glad to discuss with anyone for any potential collaboration. Feel free to send me an email!
+I am also glad to discuss with anyone for any potential collaboration. Feel free to contact me!
 
 # Recent News
 - 2024.08: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
