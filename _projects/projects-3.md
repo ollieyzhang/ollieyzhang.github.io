@@ -1,6 +1,6 @@
 ---
 title: "Learning and Generalizing Variable Impedance Manipulation Skills from Human Demonstrations"
-excerpt: "This project aims to enable robot arms learn variable impedance manipulation skills from multiple demonstrations for pouring tasks in human-centric environments"
+excerpt: "This project aims to enable robot arms learn variable impedance manipulation skills from multiple demonstrations for pouring tasks in human-centric environments."
 collection: projects
 ---
 <style>
