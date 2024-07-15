@@ -18,29 +18,41 @@ Feel free to contact me for any collaboration.
 
 # Recent News
 ---
+---
 - *2024.08*: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - *2024.01*: &nbsp; Our paper about [representing robot geometry as distance fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
 
 # Selected Publications
 ---
+# Selected Publications
+---
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
+
 
 
 <div class='paper-box' style="display: flex; align-items: flex-start;">
   <div class='paper-box-image' style="flex: 0 0 auto; width: 40%;">
     <div>
-      <img src='images/RDF.png' alt="sym" style="width: 100%;">
+      <img src='images/RDF.png' alt="sym" style="width: 60%;">
     </div>
   </div>
   <div class='paper-box-text' style="flex: 1; padding-left: 20px; text-align: justify;" markdown="1">
+  </div>
 
-**Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
+<div class='paper-box-text' style="flex: 1; text-align: justify; font-size: 0.9em;">
+    <p style="font-size: 0.9em; line-height: 1.2;">
+      <strong>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</strong>
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.2;">
+      <strong>Yiming Li</strong>, Yan Zhang, Amirreza Razmjoo, Sylvain Calinon
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.2;">
+      In Proc. IEEE ICRA 2024.
+    </p>
+    <p style="font-size: 0.9em; line-height: 1.2;">
+      <a href="https://arxiv.org/pdf/2307.00533">[paper]</a> <a href="https://sites.google.com/view/lrdf">[website]</a> <a href="https://github.com/yimingli1998/RDF">[code]</a>
+    </p>
+  </div>
 
-Yiming Li, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
-
-In Proc. IEEE Intl Conf. on Robotics and Automation 2024 (ICRA 2024).
-
-[[paper]](https://arxiv.org/pdf/2307.00533)[[website]](https://sites.google.com/view/lrdf)[[code](https://github.com/yimingli1998/RDF)]
-</div>
 </div>
   
