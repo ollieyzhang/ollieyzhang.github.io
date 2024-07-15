@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% include base_path %}
-
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -53,7 +50,7 @@ author_profile: true
 
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <img src='../images/vic_il/vic_imitation_learning.svg' alt="sym" width="80%">
@@ -69,6 +66,6 @@ author_profile: true
   In Proc. IEEE/ASME Intl Conf. on Advanced Intelligent Mechatronics (AIM) 2022.
 
   [[paper]](https://ieeexplore.ieee.org/abstract/document/9863389)
-  </div>
+  </div> -->
 
 </div>

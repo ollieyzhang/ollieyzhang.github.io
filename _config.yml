@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yan Zhang 张炎"
-  pronouns         : "he/him"  
-  bio              : "RA @ Idiap & Ph.D. Student @ EPFL"
+  pronouns         : #"he/him"  
+  bio              : "RA@Idiap & Ph.D. Student@EPFL"
   location         : "Martigny, Switzerland"
   employer         : "Idiap Research Institute"
   uri              : # URL
@@ -200,10 +200,10 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  news:
     output: true
     permalink: /:collection/:path/
-  news:
+  publications:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -234,15 +234,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+   # _news
   - scope:
       path: ""
-      type: teaching
+      type: news
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -261,14 +260,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _news
+  # _teaching
   - scope:
       path: ""
-      type: news
+      type: teaching
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+  
 
 
 # Sass/SCSS
