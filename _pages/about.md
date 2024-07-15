@@ -49,6 +49,31 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
       </em><br>
       </td>
   </tr>
+
+  <tr>
+    <td style="width:25%;vertical-align:middle">
+      <div class="one">
+        <img src='images/RDF.png' width="100%">
+      </div>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://github.com/yimingli1998/RDF">
+        <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
+      </a>
+      <br>
+      Yiming Li, <strong>Yan Zhang</strong>, Amirreza Razmjoo, Sylvain Calinon
+      <br>
+      <strong>ICRA 2024</strong>
+      <em><br>
+        <a href="https://arxiv.org/pdf/2307.00533">paper</a> /
+        <a href="https://github.com/yimingli1998/RDF">code</a> /
+        <a href="https://sites.google.com/view/lrdf">website</a>
+        <br>
+        <!-- (<strong style="color:red;">Spotlight</strong>, acceptance rate: 5%) -->
+      </em><br>
+      </td>
+  </tr>
+  
   </tbody></table>
 
   
