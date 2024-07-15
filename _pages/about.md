@@ -13,7 +13,7 @@ I am a 2nd-year PhD student at EPFL and also working as a research assistant in 
 
 I am targeting on building intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for long-horizon manipulation tasks. My research interest includes **robot learning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, variable impedacne control, robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
 
-Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/projects/) for more information. 
+Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/teaching/) for more information. 
 
 I am also glad to discuss with anyone for any potential collaboration. Feel free to contact me!
 
