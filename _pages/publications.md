@@ -12,7 +12,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/logic_lfd.jpg' alt="sym" width="80%">
+      <img src='https://ollieyzhang.github.io/images/logic_lfd.jpg' alt="sym" width="80%">
     </div>
   </div>
 
@@ -33,7 +33,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/RDF.png' alt="sym" width="80%">
+      <img src='https://ollieyzhang.github.io/images/RDF.png' alt="sym" width="80%">
     </div>
   </div>
 
@@ -54,7 +54,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/vic_il/vic_imitation_learning.svg' alt="sym" width="80%">
+      <img src='https://ollieyzhang.github.io/images/vic_il/vic_imitation_learning.svg' alt="sym" width="80%">
     </div>
   </div>
 
