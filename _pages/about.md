@@ -30,10 +30,8 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
     <td style="width:25%;vertical-align:middle">
       <div class="one">
         <img src='images/RDF.png' width="100%">
-        <img src='images/RDF.png' width="100%">
       </div>
     </td>
-
     <td style="padding:20px;width:75%;vertical-align:middle">
       <a href="https://github.com/yimingli1998/RDF">
         <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
@@ -50,7 +48,7 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
         <!-- (<strong style="color:red;">Spotlight</strong>, acceptance rate: 5%) -->
       </em><br>
       </td>
-
+  </tr>
   </tbody></table>
 
   
