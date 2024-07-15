@@ -25,13 +25,12 @@ Feel free to contact me for any collaboration.
 ---
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
 
-<td style="width:25%;vertical-align:middle">
+<td style="width:30%;vertical-align:middle">
   <div class="one">
-    <img src='images/RDF.png' width="100%">
+    <img src='images/RDF.png' width="30%">
   </div>
 </td>
-
-<td style="padding:20px;width:75%;vertical-align:middle">
+<td style="padding:20px;width:50%;vertical-align:middle">
   <a href="https://github.com/yimingli1998/RDF">
     <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
   </a>
