@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
@@ -12,7 +14,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='https://ollieyzhang.github.io/images/logic_lfd.jpg' alt="sym" width="80%">
+      <img src='../images/logic_lfd.jpg' alt="sym" width="80%">
     </div>
   </div>
 
@@ -33,7 +35,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='https://ollieyzhang.github.io/images/RDF.png' alt="sym" width="80%">
+      <img src='../images/RDF.png' alt="sym" width="80%">
     </div>
   </div>
 
@@ -54,7 +56,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='https://ollieyzhang.github.io/images/vic_il/vic_imitation_learning.svg' alt="sym" width="80%">
+      <img src='../images/vic_il/vic_imitation_learning.svg' alt="sym" width="80%">
     </div>
   </div>
 

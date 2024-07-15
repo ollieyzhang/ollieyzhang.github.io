@@ -19,7 +19,7 @@ I am also glad to discuss with anyone for any potential collaboration. Feel free
 
 # Recent News
 - 2024.08: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
-- 2024.01: &nbsp; Our paper 【Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
+- 2024.01: &nbsp; Our paper [Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
 
 # Selected Publications
 Please visit the [Publications](https://ollieyzhang.github.io/publications/) page for more details.
