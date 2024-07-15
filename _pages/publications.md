@@ -50,10 +50,10 @@ author_profile: true
 
 </div>
 
-<!-- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='../images/vic_il/vic_imitation_learning.svg' alt="sym" width="80%">
+      <img src='../images/vic_lfd.png' alt="sym" width="80%">
     </div>
   </div>
 
@@ -66,6 +66,6 @@ author_profile: true
   In Proc. IEEE/ASME Intl Conf. on Advanced Intelligent Mechatronics (AIM) 2022.
 
   [[paper]](https://ieeexplore.ieee.org/abstract/document/9863389)
-  </div> -->
+  </div>
 
 </div>
