@@ -24,7 +24,7 @@ Feel free to contact me for any collaboration.
 # Selected Publications
 ---
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:0px;border-spacing:0px;border:none;border-collapse:collapse;margin-right:auto;margin-left:auto;"><tbody>
 
   <tr>
     <td style="width:25%;vertical-align:middle">
@@ -33,7 +33,7 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
       </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
-      <a href="https://github.com/yimingli1998/RDF">
+      <a href="https://arxiv.org/pdf/2307.00533">
         <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
       </a>
       <br>
