@@ -21,6 +21,26 @@ Feel free to contact me for any collaboration.
 
 # Selected Publications
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/logic_lfd.jpg' alt="sym" width="80%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  **Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments**
+
+  **Yan Zhang**, Teng Xue*, Amirreza Razmjoo*, Sylvain Calinon
+
+  In IEEE RA-L 2024.
+
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/10569055)[[website]](https://sites.google.com/view/logic-lfd/)
+  [[code]](https://github.com/ollieyzhang/Logic-LfD)
+  </div>
+  
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -29,16 +49,18 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
     </div>
   </div>
 
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
 
-**Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
+  **Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
 
-Yiming Li, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
+  Yiming Li, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
 
-In Proc. IEEE ICRA 2024.
+  In Proc. IEEE ICRA 2024.
 
-[[paper]](https://arxiv.org/pdf/2307.00533)[[website]](https://sites.google.com/view/lrdf)
-</div>
+  [[paper]](https://arxiv.org/pdf/2307.00533)[[website]](https://sites.google.com/view/lrdf)
+  [[code]](https://github.com/yimingli1998/RDF)
+  </div>
+
 </div>
 
   
