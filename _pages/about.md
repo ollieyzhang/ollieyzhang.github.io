@@ -24,35 +24,45 @@ Feel free to contact me for any collaboration.
 
 # Selected Publications
 ---
-# Selected Publications
----
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
 
+<td style="width:25%;vertical-align:middle">
+  <div class="one">
+    <img src='images/RDF.png' width="100%">
+  </div>
+</td>
+<td style="padding:20px;width:75%;vertical-align:middle">
+  <a href="https://yanweiw.github.io/glide/">
+    <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
+  </a>
+  <br>
+  Yiming Li, <strong>Yan Zhang</strong>, Amirreza Razmjoo, Sylvain Calinon
+  <br>
+  <strong>ICRA 2024</strong>
+  <em><br>
+    <a href="https://arxiv.org/pdf/2307.00533">paper</a> /
+    <a href="https://github.com/yimingli1998/RDF">code</a> /
+    <a href="https://sites.google.com/view/lrdf">project page</a>
+    <br>
+    <!-- (<strong style="color:red;">Spotlight</strong>, acceptance rate: 5%) -->
+  </em><br>
+  </td>
 
-
-<div class='paper-box' style="display: flex; align-items: flex-start;">
-  <div class='paper-box-image' style="flex: 0 0 auto; width: 40%;">
+<!-- <td class='paper-box' style="display: flex; align-items: flex-start;">
+  <div class='paper-box-image' style="flex: 0 0 auto; width=25%">
     <div>
-      <img src='images/RDF.png' alt="sym" style="width: 60%;">
+      <img src='images/RDF.png' alt="sym" style="width: 100%;">
     </div>
   </div>
   <div class='paper-box-text' style="flex: 1; padding-left: 20px; text-align: justify;" markdown="1">
-  </div>
 
-<div class='paper-box-text' style="flex: 1; text-align: justify; font-size: 0.9em;">
-    <p style="font-size: 0.9em; line-height: 1.2;">
-      <strong>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</strong>
-    </p>
-    <p style="font-size: 0.9em; line-height: 1.2;">
-      <strong>Yiming Li</strong>, Yan Zhang, Amirreza Razmjoo, Sylvain Calinon
-    </p>
-    <p style="font-size: 0.9em; line-height: 1.2;">
-      In Proc. IEEE ICRA 2024.
-    </p>
-    <p style="font-size: 0.9em; line-height: 1.2;">
-      <a href="https://arxiv.org/pdf/2307.00533">[paper]</a> <a href="https://sites.google.com/view/lrdf">[website]</a> <a href="https://github.com/yimingli1998/RDF">[code]</a>
-    </p>
-  </div>
+**Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
 
+Yiming Li, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
+
+In Proc. IEEE Intl Conf. on Robotics and Automation 2024 (ICRA 2024).
+
+[[paper]](https://arxiv.org/pdf/2307.00533)[[website]](https://sites.google.com/view/lrdf)[[code](https://github.com/yimingli1998/RDF)]
+</div>
 </div>
   
