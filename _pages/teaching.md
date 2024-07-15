@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Teaching/supervised projects is within [Robot Learning and Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group, led by [Dr. Sylvain Calinon](https://calinon.ch/index.html). Please check also his [website](https://calinon.ch/projProp.htm) for potential interesting projects supervised by other group members.**
+Teaching and project supervision are within [Robot Learning and Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group, led by [Dr. Sylvain Calinon](https://calinon.ch/index.html). Please check also his [website](https://calinon.ch/projProp.htm) for potential interesting projects supervised by other group members.
 
 # Open Projects:
 

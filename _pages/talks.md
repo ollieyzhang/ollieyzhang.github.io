@@ -4,8 +4,6 @@ title: "News"
 permalink: /talks/
 author_profile: true
 ---
-
-# Hightlight News:
 ---
 - 2024.08: &nbsp; Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - 2024.01: &nbsp; Our paper [Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
