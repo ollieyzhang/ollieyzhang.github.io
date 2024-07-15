@@ -28,6 +28,7 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
       <img src='images/RDF.png' alt="sym" width="80%">
     </div>
   </div>
+
 <div class='paper-box-text' markdown="1">
 
 **Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
