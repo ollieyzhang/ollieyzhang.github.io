@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
 I am a 2nd-year PhD student at EPFL. I am also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en). I am supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
 
 ![Research goals](/images/kitchen_robot.png){: .align-right width="180px"}
@@ -17,12 +16,10 @@ I am targeting on building intelligent robot assistants living together with hum
 Feel free to contact me for any collaboration.
 
 # Recent News
----
 - *2024.08*: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - *2024.01*: &nbsp; Our paper about [representing robot geometry as distance fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
 
 # Selected Publications
----
 Please visit the [Publication](https://ollieyzhang.github.io/publications/) page for more details.
 
 <div class='paper-box'>
