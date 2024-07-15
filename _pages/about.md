@@ -18,7 +18,6 @@ Feel free to contact me for any collaboration.
 
 # Recent News
 ---
----
 - *2024.08*: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - *2024.01*: &nbsp; Our paper about [representing robot geometry as distance fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
 
@@ -31,8 +30,9 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
     <img src='images/RDF.png' width="100%">
   </div>
 </td>
+
 <td style="padding:20px;width:75%;vertical-align:middle">
-  <a href="https://yanweiw.github.io/glide/">
+  <a href="https://github.com/yimingli1998/RDF">
     <papertitle>Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation</papertitle>
   </a>
   <br>
@@ -47,22 +47,4 @@ Please visit the [Publication](https://ollieyzhang.github.io/publications/) page
     <!-- (<strong style="color:red;">Spotlight</strong>, acceptance rate: 5%) -->
   </em><br>
   </td>
-
-<!-- <td class='paper-box' style="display: flex; align-items: flex-start;">
-  <div class='paper-box-image' style="flex: 0 0 auto; width=25%">
-    <div>
-      <img src='images/RDF.png' alt="sym" style="width: 100%;">
-    </div>
-  </div>
-  <div class='paper-box-text' style="flex: 1; padding-left: 20px; text-align: justify;" markdown="1">
-
-**Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation**
-
-Yiming Li, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
-
-In Proc. IEEE Intl Conf. on Robotics and Automation 2024 (ICRA 2024).
-
-[[paper]](https://arxiv.org/pdf/2307.00533)[[website]](https://sites.google.com/view/lrdf)[[code](https://github.com/yimingli1998/RDF)]
-</div>
-</div>
   
