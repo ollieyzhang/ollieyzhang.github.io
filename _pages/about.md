@@ -38,7 +38,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   Under review, arXiv preprint arXiv:2506.03362, 2025 
 
-  [[papaer]](https://arxiv.org/pdf/2506.03362)
+  [[paper]](https://arxiv.org/pdf/2506.03362)
   [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)
   </div>
   
@@ -59,7 +59,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   Under review, arXiv preprint  arXiv:2408.06843v2, 2025 
 
-  [[papaer]](https://arxiv.org/pdf/2408.06843)
+  [[paper]](https://arxiv.org/pdf/2408.06843)
   [[website]](https://sites.google.com/view/problem-decomposition-ral?usp=sharing)
   </div>
   
