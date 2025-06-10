@@ -11,7 +11,7 @@ I am a 3rd-year PhD student at EPFL and also working as a research assistant in 
 
 ![Research goals](/images/kitchen_robot.png){: .align-right width="180px"}
 
-I am targeting on building intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for multi-object manipulation tasks. My research interest includes **robot learning**, **multi-object manipulation planning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, variable impedacne control, robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
+I aim to build intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for multi-object manipulation tasks. My research interests include **robot learning**, **multi-object manipulation planning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, variable impedacne control, robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
 
 <!-- Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/teaching/) for more information.  -->
 
@@ -26,7 +26,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/tool-selection.gif' alt="sym" width="80%">
+      <img src='images/tool-selection.jpg' alt="sym" width="80%">
     </div>
   </div>
 
@@ -34,7 +34,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   **Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance**
 
-  Yifei Dong*, **Yan Zhang***, Sylvain Calinon, Florian T. Pokorny
+  Yifei Dong\*, **Yan Zhang\***, Sylvain Calinon, Florian T. Pokorny
 
   Under review, arXiv preprint arXiv:2506.03362, 2025 
 
@@ -47,7 +47,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/kitchen_website.gif' alt="sym" width="80%">
+      <img src='images/learn2decompose.jpg' alt="sym" width="80%">
     </div>
   </div>
 
@@ -65,26 +65,6 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
   
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/logic_lfd.jpg' alt="sym" width="80%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
-  **Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance**
-
-  Yifei Dong*, **Yan Zhang***, Sylvain Calinon, Florian T. Pokorny
-
-  Under review, arXiv preprint arXiv:2506.03362, 2025 
-
-  [[papaer]](https://arxiv.org/pdf/2506.03362)
-  [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)
-  </div>
-  
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
