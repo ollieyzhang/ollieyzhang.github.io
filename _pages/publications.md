@@ -11,7 +11,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/tool-selection.jpg' alt="sym" width="100%">
+      <img src='../images/tool-selection.jpg' alt="sym" width="100%">
     </div>
   </div>
 
@@ -32,7 +32,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/learn2decompose.jpg' alt="sym" width="100%">
+      <img src='../images/learn2decompose.jpg' alt="sym" width="100%">
     </div>
   </div>
 
