@@ -53,7 +53,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='../images/logic_lfd.jpg' alt="sym" width="80%">
+      <img src='../images/logic_lfd.jpg' alt="sym" width="100%">
     </div>
   </div>
 
@@ -74,7 +74,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='../images/RDF.png' alt="sym" width="80%">
+      <img src='../images/RDF.png' alt="sym" width="100%">
     </div>
   </div>
 
@@ -95,7 +95,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='../images/vic_lfd.png' alt="sym" width="80%">
+      <img src='../images/vic_lfd.png' alt="sym" width="100%">
     </div>
   </div>
 
