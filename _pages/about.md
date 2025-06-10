@@ -26,7 +26,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/tool-selection.jpg' alt="sym" width="80%">
+      <img src='images/tool-selection.jpg' alt="sym" width="100%">
     </div>
   </div>
 
@@ -47,7 +47,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/learn2decompose.jpg' alt="sym" width="80%">
+      <img src='images/learn2decompose.jpg' alt="sym" width="100%">
     </div>
   </div>
 
@@ -69,7 +69,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/logic_lfd.jpg' alt="sym" width="80%">
+      <img src='images/logic_lfd.jpg' alt="sym" width="100%">
     </div>
   </div>
 
@@ -90,7 +90,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/RDF.png' alt="sym" width="80%">
+      <img src='images/RDF.png' alt="sym" width="100%">
     </div>
   </div>
 
