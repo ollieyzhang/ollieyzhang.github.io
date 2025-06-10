@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd-year PhD student at EPFL and also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en), supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
+I am a 3rd-year PhD student at EPFL and also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en), supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
 
 ![Research goals](/images/kitchen_robot.png){: .align-right width="180px"}
 
-I am targeting on building intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for long-horizon manipulation tasks. My research interest includes **robot learning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, variable impedacne control, robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
+I am targeting on building intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for multi-object manipulation tasks. My research interest includes **robot learning**, **multi-object manipulation planning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, variable impedacne control, robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
 
-Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/teaching/) for more information. 
+<!-- Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/teaching/) for more information.  -->
 
-I am also glad to discuss with anyone for any potential collaboration. Feel free to contact me!
+I am glad to discuss with anyone for any potential collaboration or EPFL students for potential projects in our lab. Feel free to contact me!
 
 # Recent News
 - 2024.08: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
@@ -23,6 +23,27 @@ I am also glad to discuss with anyone for any potential collaboration. Feel free
 
 # Selected Publications
 Please visit the [Publications](https://ollieyzhang.github.io/publications/) page for more details.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/logic_lfd.jpg' alt="sym" width="80%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  **Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance**
+
+  Yifei Dong*, **Yan Zhang***, Sylvain Calinon, Florian T. Pokorny
+
+  Under review, arXiv preprint arXiv:2506.03362, 2025 
+
+  [[papaer]](https://arxiv.org/pdf/2506.03362)
+  [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)
+  </div>
+  
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
