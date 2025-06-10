@@ -11,6 +11,48 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/tool-selection.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  **Robustness-Aware Tool Selection and Manipulation Planning with Learned Energy-Informed Guidance**
+
+  Yifei Dong\*, **Yan Zhang\***, Sylvain Calinon, Florian T. Pokorny
+
+  Under review, arXiv preprint arXiv:2506.03362, 2025 
+
+  [[paper]](https://arxiv.org/pdf/2506.03362)
+  [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)
+  </div>
+  
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/learn2decompose.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  **Learn2Decompose: Learning Problem Decomposition for Efficient Sequential Multi-object Manipulation Planning**
+
+  **Yan Zhang**, Teng Xue, Amirreza Razmjoo, Sylvain Calinon
+
+  Under review, arXiv preprint  arXiv:2408.06843v2, 2025 
+
+  [[paper]](https://arxiv.org/pdf/2408.06843)
+  [[website]](https://sites.google.com/view/problem-decomposition-ral?usp=sharing)
+  </div>
+  
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='../images/logic_lfd.jpg' alt="sym" width="80%">
     </div>
   </div>
