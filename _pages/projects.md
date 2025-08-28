@@ -13,8 +13,19 @@ This project aims to design a reactive task and motion planning algorithm with o
 </div>
 <br/>
 
-[Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation](https://sites.google.com/view/lrdf)
+[Robot Learning to Move Like Animals: Sim2Real Transfer of DRL for Quadrupled Robots Learning Locomotion Gaits](https://sites.google.com/view/deepmimic?usp=sharing)
+<div style="text-align:justify;">
+This project aims to reproduce the results presented in the paper titled <a href="https://arxiv.org/abs/2004.00784">Learning Agile Robotic Locomotion Skills by Imitating Animals</a> on our self-designed multi-modal quadruped robot. I was involved in this project when I was doing my research internship at Tencent Robotics X Lab and my work mainly focus on the Sim2Real part. During my internship, I managed to transfer gaits learned in simulation to the real quadruped robot with a 100% success rate.
+</div>
+<br/>
 
+[Residual Reinforcement Learning for Compliant Manipulation Skills in a Human-like Way for Contact-rich Tasks](../_projects/projects-1.md)
+<div style="text-align:justify;">
+This project targets on learning optimal variable impedance manipulation skills with human demonstrations in a residual reinforcement learning manner for contact-rich tasks, e.g. peg insertion. I managed to deploy it on a 7-axis Franka Emika robot arm by integrating deep reinforcement learning and imitation learning with Python, C++, and ROS.
+</div>
+<br/>
+
+[Representing Robot Geometry as Distance Fields: Applications to Whole-body Manipulation](https://sites.google.com/view/lrdf)
 <div style="text-align:justify;">
 This project represents a serial robot arms with Signed Distance Functions (SDF) with kinematic chain awareness. This differentiaable implicit representation enables efficient minimal distance and gradient query, which thus facilitates the design of dual-arm self-collision avoidance and whole-arm lifting big and bulky objects. I am mainly invovled in the dual-arm self-collision section.
 </div>
@@ -23,18 +34,6 @@ This project represents a serial robot arms with Signed Distance Functions (SDF)
 [Learning and Generalizing Variable Impedance Manipulation Skills from Human Demonstrations](../_projects/projects-3.md)
 <div style="text-align:justify;">
 This project aims to enable robot arms learn variable impedance manipulation skills from multiple demonstrations for pouring tasks in human-centric environments.
-</div>
-<br/>
-
-[Robot Learning to Move Like Animals: Sim2Real Transfer of DRL for Quadrupled Robots Learning Locomotion Gaits](../_projects/projects-2.md)
-<div style="text-align:justify;">
-This project aims to reproduce the results presented in the paper titled <a href="https://arxiv.org/abs/2004.00784">Learning Agile Robotic Locomotion Skills by Imitating Animals</a> on our self-designed multi-modal quadruped robot. I was involved in this project when I was doing my research internship at Tencent Robotics X Lab and my work mainly focus on the Sim2Real part. During my internship, I managed to transfer gaits learned in simulation to the real quadruped robot with a 100% success rate.
-</div>
-<br/>
-
-[Learning Optimal Manipulation Skills in a Human-like Way for Contact-rich Tasks](../_projects/projects-1.md)
-<div style="text-align:justify;">
-This project targets on learning optimal variable impedance manipulation skills with human demonstrations in a residual reinforcement learning manner for contact-rich tasks, e.g. peg insertion. I managed to deploy it on a 7-axis Franka Emika robot arm by integrating deep reinforcement learning and imitation learning with Python, C++, and ROS.
 </div>
 <br/>
 
