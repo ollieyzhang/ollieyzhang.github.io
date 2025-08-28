@@ -22,4 +22,4 @@ Imitation Learning(IL) algorithms have shown great success in human-robot manipu
 
 # Overview:
 ---
-<img src='/images/optimal_vic.svg' alt="Overview of the proposed method." height="300" style="display: block; margin-left: auto; margin-right: auto;"/>
+<img src='/images/optimal_vic.svg' alt="Overview of the proposed method." height="450" style="display: block; margin-left: auto; margin-right: auto;"/>
