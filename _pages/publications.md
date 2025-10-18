@@ -42,7 +42,7 @@ author_profile: true
 
   **Yan Zhang**, Teng Xue, Amirreza Razmjoo, Sylvain Calinon
 
-  Under review, arXiv preprint  arXiv:2408.06843v2, 2025 
+  In IEEE RA-L 2025.
 
   [[paper]](https://arxiv.org/pdf/2408.06843)
   [[website]](https://sites.google.com/view/problem-decomposition-ral?usp=sharing)

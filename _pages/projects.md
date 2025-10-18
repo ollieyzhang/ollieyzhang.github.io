@@ -5,6 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 **You can find more details about each project on its website by clicking the title of the corresponding project.**
+
 [Learn2Decompose: Learning Problem Decomposition for Efficient Sequential Multi-object Manipulation Planning](https://sites.google.com/view/logic-lfd/)
 
 <div style="text-align:justify;">
