@@ -5,6 +5,12 @@ permalink: /projects/
 author_profile: true
 ---
 **You can find more details about each project on its website by clicking the title of the corresponding project.**
+[Learn2Decompose: Learning Problem Decomposition for Efficient Sequential Multi-object Manipulation Planning](https://sites.google.com/view/logic-lfd/)
+
+<div style="text-align:justify;">
+This project aims to design efficient task and motion replanning systems for multi-object manipulation tasks with disturbances or uncertainties. We achieve the goal by 1) learning manipulation "receipe" from a few demonstrations of multi-object manipulation tasks, under sequential pattern mining formulation; 2) learning computational distances between two scene graphs with GNN for closest subgoal selection; 3) parallel planning with different object sets. These three terms are generalizable thus robust to various domain variants, thus enabling efficient replanning.
+</div>
+<br/>
 
 [Logic Learning from Demonstrations for Multi-step Manipulation Tasks in Dynamic Environments](https://sites.google.com/view/logic-lfd/)
 

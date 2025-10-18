@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 3rd-year PhD student at EPFL and also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en), supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
+I am a final-year PhD student at EPFL and also working as a research assistant in the [Robot Learning & Interaction](https://www.idiap.ch/en/scientific-research/robot-learning-and-interaction) group at [Idiap](https://www.idiap.ch/en), supervised by [Dr. Sylvain Calinon](https://calinon.ch/index.htm) and [Prof. Colin Jones](https://people.epfl.ch/colin.jones). 
 
 ![Research goals](/images/kitchen_robot.png){: .align-right width="180px"}
 
@@ -18,6 +18,7 @@ I aim to build intelligent robot assistants living together with humans at home.
 I am glad to discuss with anyone for any potential collaboration or EPFL students for potential projects in our lab. Feel free to contact me!
 
 # Recent News
+- 2025.10: &nbsp;Our paper [Learn2Decompose](https://arxiv.org/pdf/2408.06843) is accepted to IEEE RA-L!
 - 2024.08: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - 2024.01: &nbsp; Our paper [Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
 
@@ -57,7 +58,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   **Yan Zhang**, Teng Xue, Amirreza Razmjoo, Sylvain Calinon
 
-  Under review, arXiv preprint  arXiv:2408.06843v2, 2025 
+  In IEEE RA-L 2025.
 
   [[paper]](https://arxiv.org/pdf/2408.06843)
   [[website]](https://sites.google.com/view/problem-decomposition-ral?usp=sharing)
