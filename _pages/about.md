@@ -18,7 +18,7 @@ I aim to build intelligent robot assistants living together with humans at home.
 I am glad to discuss with anyone for any potential collaboration or EPFL students for potential projects in our lab. Feel free to contact me!
 
 # Recent News
-- 2025.10: &nbsp;Our paper [Learn2Decompose](https://arxiv.org/pdf/2408.06843) is accepted to IEEE RA-L!
+- 2025.10: &nbsp;Our paper [Learn2Decompose](https://arxiv.org/pdf/2408.06843v4) is accepted to IEEE RA-L!
 - 2024.08: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - 2024.01: &nbsp; Our paper [Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
 
@@ -60,7 +60,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   In IEEE RA-L 2025.
 
-  [[paper]](https://arxiv.org/pdf/2408.06843)
+  [[paper]](https://arxiv.org/pdf/2408.06843v4)
   [[website]](https://sites.google.com/view/problem-decomposition-ral?usp=sharing)
   </div>
   

@@ -44,7 +44,7 @@ author_profile: true
 
   In IEEE RA-L 2025.
 
-  [[paper]](https://arxiv.org/pdf/2408.06843)
+  [[paper]](https://arxiv.org/pdf/2408.06843v4)
   [[website]](https://sites.google.com/view/problem-decomposition-ral?usp=sharing)
   </div>
   
