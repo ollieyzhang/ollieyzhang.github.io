@@ -24,6 +24,33 @@ I am glad to discuss with anyone for any potential collaboration or EPFL student
 
 # Selected Publications
 Please visit the [Publications](https://ollieyzhang.github.io/publications/) page for more details.
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src="{{ '/images/whole_body_rotation.gif' | relative_url }}"
+            alt="Whole-body rotation demo"
+            width="100%"
+            loading="lazy"
+            decoding="async">
+
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  **Monte Carlo Tree Search with Tensor Factorization for Robot Optimization**
+
+  Teng Xue, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
+
+  Under review
+
+  [[paper]](https://arxiv.org/abs/2507.04949)
+  [[website]](https://sites.google.com/view/tt-ts)
+  </div>
+  
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
