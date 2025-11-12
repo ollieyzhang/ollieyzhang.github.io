@@ -11,7 +11,7 @@ author_profile: true
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src="{{ '/images/whole_body_rotation.gif' | relative_url }}"
+      <img src='../images/whole_body_rotation.gif'
             alt="Whole-body rotation demo"
             width="100%"
             loading="lazy"
