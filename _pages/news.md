@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 ---
-- 2026.01: &nbsp;Our paper [Robust Tool Selection and Manipulation](https://arxiv.org/pdf/2408.06843v4) is accepted to ICRA 2026!
+- 2026.01: &nbsp;Our paper [Robust Tool Selection and Manipulation](https://arxiv.org/pdf/2506.03362) is accepted to ICRA 2026!
 - 2025.10: &nbsp;Our paper [Learn2Decompose](https://arxiv.org/pdf/2408.06843v4) is accepted to IEEE RA-L!gi
 - 2024.08: &nbsp; Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - 2024.01: &nbsp; Our paper [Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
