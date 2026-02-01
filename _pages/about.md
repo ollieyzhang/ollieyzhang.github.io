@@ -62,7 +62,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   Yifei Dong\*, **Yan Zhang\***, Sylvain Calinon, Florian T. Pokorny
 
-  IEEE International Conference on Robotics and Automation (ICRA), 2026 
+  In Proc. IEEE ICRA, 2026  
 
   [[paper]](https://arxiv.org/pdf/2506.03362)
   [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)
