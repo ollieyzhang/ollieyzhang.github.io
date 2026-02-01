@@ -11,13 +11,11 @@ I am a final-year PhD student at EPFL and also working as a research assistant i
 
 ![Research goals](/images/kitchen_robot.png){: .align-right width="180px"}
 
-I aim to build intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for multi-object manipulation tasks. My research interests include **robot learning**, **multi-object manipulation planning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, variable impedacne control, robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
+I aim to build intelligent robot assistants living together with humans at home. I am currently working on integrating task and motion planning with robot learning for multi-object manipulation tasks. My research interests include **robot learning**, **multi-object manipulation planning**, **task and motion planning**, and **graph theory**. My previous research experiences cover imitation learning, deep reinforcement learning, sim2real transfer, and variable impedacne control in robot manipulators and legged robots. See [Projects](https://ollieyzhang.github.io/projects/) for more details.
 
-<!-- Occasionally, I will share some master thesis project proposals for master students at EPFL or anyone interested in them. Please refer to [Teaching](https://ollieyzhang.github.io/teaching/) for more information.  -->
-
-I am glad to discuss with anyone for any potential collaboration or EPFL students for potential projects in our lab. Feel free to contact me!
 
 # Recent News
+- 2026.01: &nbsp;Our paper [Robust Tool Selection and Manipulation](https://arxiv.org/pdf/2408.06843v4) is accepted to ICRA 2026!
 - 2025.10: &nbsp;Our paper [Learn2Decompose](https://arxiv.org/pdf/2408.06843v4) is accepted to IEEE RA-L!
 - 2024.08: &nbsp;Our paper [LogicLfD](https://ieeexplore.ieee.org/abstract/document/10569055/) is accepted to IEEE RA-L!
 - 2024.01: &nbsp; Our paper [Robot Distance Fields](https://arxiv.org/pdf/2307.00533) is accepted to ICRA 2024!
@@ -41,7 +39,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   **Monte Carlo Tree Search with Tensor Factorization for Robot Optimization**
 
-  Teng Xue, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
+  Teng Xue, **Yan Zhang\***, Amirreza Razmjoo\*, Sylvain Calinon
 
   Under review
 
@@ -64,7 +62,7 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 
   Yifei Dong\*, **Yan Zhang\***, Sylvain Calinon, Florian T. Pokorny
 
-  Under review, arXiv preprint arXiv:2506.03362, 2025 
+  IEEE International Conference on Robotics and Automation (ICRA), 2026 
 
   [[paper]](https://arxiv.org/pdf/2506.03362)
   [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)

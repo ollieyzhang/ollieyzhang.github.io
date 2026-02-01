@@ -24,7 +24,7 @@ author_profile: true
 
   **Monte Carlo Tree Search with Tensor Factorization for Robot Optimization**
 
-  Teng Xue, **Yan Zhang**, Amirreza Razmjoo, Sylvain Calinon
+  Teng Xue, **Yan Zhang\***, Amirreza Razmjoo\*, Sylvain Calinon
 
   Under review
 
@@ -47,7 +47,7 @@ author_profile: true
 
   Yifei Dong\*, **Yan Zhang\***, Sylvain Calinon, Florian T. Pokorny
 
-  Under review, arXiv preprint arXiv:2506.03362, 2025 
+  IEEE International Conference on Robotics and Automation (ICRA), 2026 
 
   [[paper]](https://arxiv.org/pdf/2506.03362)
   [[video]](https://www.youtube.com/watch?v=9AscO-jRgrY&t=6s)
