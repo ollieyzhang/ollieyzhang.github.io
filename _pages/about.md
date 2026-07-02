@@ -26,6 +26,28 @@ Please visit the [Publications](https://ollieyzhang.github.io/publications/) pag
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/piec4wam.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  **Physics-informed Eikonal Caging for Whole-Arm Manipulation Planning**
+
+  **Yan Zhang**, Yiming Li, Yifei Dong, Florian T. Pokorny, Sylvain Calinon
+
+  Under review 
+
+  [[paper]](https://arxiv.org/pdf/2606.22143)
+  [[video]](https://youtu.be/UwrkJNOqcno?si=TH8WY619j1b3o_g0)
+  [[website]](https://sites.google.com/view/piec4wam?usp=sharing)
+  </div>
+  
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src="{{ '/images/whole_body_rotation.gif' | relative_url }}"
             alt="Whole-body rotation demo"
             width="100%"
